@@ -1,0 +1,21 @@
+{
+  "name": "account-management-system",
+  "version": "1.0.0",
+  "description": "Node.js version of the Student Account Management System (converted from COBOL)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "accounting",
+    "student",
+    "account",
+    "management"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
